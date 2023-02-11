@@ -6,7 +6,7 @@ const DataTable = ({data,deleteAllData}) => {
     
   return (
     <div className='table'>
-    <table >
+    <table>
       <thead>
         <tr className='tr'>
           <th className='td'>ISBN#</th>
